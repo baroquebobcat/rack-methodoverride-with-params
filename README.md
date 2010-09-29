@@ -22,3 +22,5 @@ swap Rack::MethodOverride in `config/environment.rb`
 Contrib
 ---------------
 There is not much here, but if you want to play around, clone the project, run the specs and hack away.
+
+I probably won't be actively working on this much as it is really simple, but if you ping me about it on github or twitter(I'm baroquebobcat), I'll help you out.
